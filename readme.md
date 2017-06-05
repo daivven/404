@@ -36,11 +36,6 @@
 
 
 
-- index
-![](https://github.com/daivven/404/blob/master/image/Main.jpg)
-
-
-
 - ablanxue
 ![maintenance](https://github.com/daivven/404/blob/master/ablanxue/maintenancepage.png)
     
